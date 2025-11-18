@@ -28,8 +28,4 @@ const urls = [
 	'https://forms.fillout.com/t/kLjZLUMiFUus',
 	'https://forms.fillout.com/t/hfPM8upN44us',
 	'https://forms.fillout.com/t/m6HEwi7C8Bus',
-	'',
-	'',
-	'',
-	'',
 ];
