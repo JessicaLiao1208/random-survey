@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://www.youtube.com/',
+	'https://forms.fillout.com/t/4CmuR3UTy3us',
 	'https://www.netflix.com/browse',
 	'https://chatgpt.com/',
 ];
