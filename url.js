@@ -9,5 +9,7 @@
 
 const urls = [
 	'https://forms.fillout.com/t/mRAns81w1Rus', //8
-	'https://forms.fillout.com/t/4CmuR3UTy3us', //1
+	'https://forms.fillout.com/t/tY3TaJGB2bus', //4
+	'https://forms.fillout.com/t/umTckdNVwqus', //9
+	'https://forms.fillout.com/t/sxZToU4CkVus', //10
 ];
